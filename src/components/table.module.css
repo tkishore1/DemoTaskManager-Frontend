@@ -1,0 +1,19 @@
+.tableContainer {
+  margin: 15px;
+}
+
+.inputContainer {
+  margin: 16px 0px;
+}
+
+.pending {
+  background: #f7f7e8;
+}
+
+.completed {
+  background: #e8f7f0;
+}
+
+.overDue {
+  background: #f7e9e8;
+}
